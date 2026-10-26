@@ -100,6 +100,10 @@ page did start working after waiting a bit so I learned to be more patient when 
 <a href="./QAMS User Stories.pdf" target="_blank">View User Stories</a>
 #
 <a href="./logbooks.pdf" target="_blank">View Logbooks</a>
+#
+## Link to Trello Board
+https://trello.com/b/iQ0mXfK6/qr-attendance
+
 
 ## Reflection on Agile Team Charter
 Creating a team charter was an important first step in starting our project as we had to discuss our purpose and vision for
@@ -131,4 +135,4 @@ logbook at the end of the week. Updating my logbook at the end of the week made 
 day so in the future if I used an agile logbook it would be important to update it more consistently.
 
 
-https://trello.com/b/iQ0mXfK6/qr-attendance
+
