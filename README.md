@@ -96,3 +96,4 @@ page did start working after waiting a bit so I learned to be more patient when 
 <video src="./mock video.mp4" controls width="600"></video>
 
 ## Reflection on Agile Team Charter
+https://trello.com/b/iQ0mXfK6/qr-attendance
