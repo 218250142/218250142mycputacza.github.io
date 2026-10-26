@@ -127,11 +127,11 @@ Speaking for myself maintaining my agile logbook was not something I did well, I
 logbook at the end of the week. Updating my logbook at the end of the week made it difficult to remember what I did on each
 day so in the future if I used an agile logbook it would be important to update it more consistently.
 -----------------------------------------------------------------------------------------------------------------------------
-#
+##
 <a href="./Agile_Team_Charter.pdf" target="_blank">View Agile Team Charter</a>
-#
+##
 <a href="./QAMS User Stories.pdf" target="_blank">View User Stories</a>
-#
+##
 <a href="./logbooks.pdf" target="_blank">View Logbooks</a>
 #
 ## Link to Trello Board
