@@ -96,6 +96,8 @@ page did start working after waiting a bit so I learned to be more patient when 
 <video src="./mock video.mp4" controls width="600"></video>
 
 <a href="./Agile_Team_Charter.pdf" target="_blank">View Agile Team Charter</a>
+<a href="./QAMS User Stories.pdf" target="_blank">View User Stories</a>
+<a href="./logbooks.pdf" target="_blank">View Logbooks</a>
 
 ## Reflection on Agile Team Charter
 Creating a team charter was an important first step in starting our project as we had to discuss our purpose and vision for
@@ -108,7 +110,7 @@ Writing the user stories was all about trying to figure out how people would int
 as the students, lecturers and admin. Identifying all the users and how they would interact with the system required us to
 think of how the QR system worked from many different angles and  ended up being an important point of reference as we
 developed the QR system. 
-<a href="./QAMS User Stories.pdf" target="_blank">View User Stories</a>
+
 ## Reflection on Product Backlog
 Creating a product backlog was not a simple task as we needed to determine what needed to be done before we properly started
 on the QR system as such the product backlog was something that we continued to update as we worked through the project.
