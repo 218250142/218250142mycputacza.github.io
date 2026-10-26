@@ -96,4 +96,33 @@ page did start working after waiting a bit so I learned to be more patient when 
 <video src="./mock video.mp4" controls width="600"></video>
 
 ## Reflection on Agile Team Charter
+Creating a team charter was an important first step in starting our project as we had to discuss our purpose and vision for
+the project as well as decide what each of our roles and responsibilities would be, which was tricky as not everyone was
+sure what role to take. While we did not always stick to the team charter it provided a solid foundation for how we managed
+this project and taught us teamwork and delegation of tasks.
+
+## Reflection on User Stories
+Writing the user stories was all about trying to figure out how people would interact with the system at various levels such
+as the students, lecturers and admin. Identifying all the users and how they would interact with the system required us to
+think of how the QR system worked from many different angles and  ended up being an important point of reference as we
+developed the QR system. 
+
+## Reflection on Product Backlog
+Creating a product backlog was not a simple task as we needed to determine what needed to be done before we properly started
+on the QR system as such the product backlog was something that we continued to update as we worked through the project.
+The product backlog involved identifying major components of the project and breaking them down into smaller tasks and helped
+us keep track what needed to be done.
+
+## Reflection on Sprint Backlog
+Creating sprints involved moving tasks from our backlog onto weekly sprints, this required working as a team at first before
+moving to more individual tasks. The difficulty came in tasks that could not be finished in a single sprint and so would be
+carried on for a few weeks. Sprints were helpful but there comes a point where the scope of the project makes it difficult
+to complete tasks in a single week.
+
+## Reflection on Agile logbook
+Speaking for myself maintaining my agile logbook was not something I did well, I would focus on the project and only update my
+logbook at the end of the week. Updating my logbook at the end of the week made it difficult to remember what I did on each
+day so in the future if I used an agile logbook it would be important to update it more consistently.
+
+
 https://trello.com/b/iQ0mXfK6/qr-attendance
