@@ -95,7 +95,7 @@ page did start working after waiting a bit so I learned to be more patient when 
 ## Mock Video
 <video src="./mock video.mp4" controls width="600"></video>
 
-<iframe src="./Agile_Team_Charter.pdf" width="100%" height="850px"></iframe>
+<a href="./index.html" target="_blank">View Resume</a>
 
 ## Reflection on Agile Team Charter
 Creating a team charter was an important first step in starting our project as we had to discuss our purpose and vision for
