@@ -95,14 +95,7 @@ page did start working after waiting a bit so I learned to be more patient when 
 ## Mock Video
 <video src="./mock video.mp4" controls width="600"></video>
 
-<a href="./Agile_Team_Charter.pdf" target="_blank">View Agile Team Charter</a>
-#
-<a href="./QAMS User Stories.pdf" target="_blank">View User Stories</a>
-#
-<a href="./logbooks.pdf" target="_blank">View Logbooks</a>
-#
-## Link to Trello Board
-https://trello.com/b/iQ0mXfK6/qr-attendance
+
 
 
 ## Reflection on Agile Team Charter
